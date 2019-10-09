@@ -10,7 +10,7 @@
 
 <img src="https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FxcY3nR0Mvw4%2Fmaxresdefault.jpg&f=1&nofb=1" alt="Shrek" width="200"/>
 
-<img src="ssh_front.png" alt="ssh" width="200"/>
+<img src="assets/ssh_front.png" alt="ssh" width="200"/>
 
 ![Shrek gif](https://media0.giphy.com/media/MDXomrcGshGso/200.webp?cid=790b76112a060ac3cb794df90d80abb6a6e764f314c2d59e&rid=200.webp)
 

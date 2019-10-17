@@ -6,8 +6,12 @@
 
 ## Usage
 
-* Live preview with watch flag
-  * `reveal-md path/to/my/slides.md -w`
+```
+git clone https://github.com/slowpokesheep/tolvunet_md.git
+cd markdown
+npm install
+npm start
+```
 
 ## Template preview
 

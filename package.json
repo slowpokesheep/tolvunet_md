@@ -1,0 +1,23 @@
+{
+  "name": "markdown",
+  "version": "1.0.0",
+  "description": "## Install * [Github/reveal-md](https://github.com/webpro/reveal-md)   * `npm install -g reveal-md`",
+  "main": "template.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "reveal-md template.md -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slowpokesheep/tolvunet_md.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slowpokesheep/tolvunet_md/issues"
+  },
+  "homepage": "https://github.com/slowpokesheep/tolvunet_md#readme",
+  "dependencies": {
+    "reveal-md": "^3.3.1"
+  }
+}

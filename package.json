@@ -5,7 +5,8 @@
   "main": "template.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "reveal-md template.md -w"
+    "start": "reveal-md template.md -w",
+    "teitur": "reveal-md teitur.md -w"
   },
   "repository": {
     "type": "git",

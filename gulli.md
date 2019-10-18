@@ -130,3 +130,17 @@ Samhverfir lyklaalgoriðmar nota einn lykil til að dulkóða og afkóða, algen
 ##### Örugg SSL/TLS samskipti á milli biðlarans og þjónsins
 
 ![Ugla-handaband](https://imgur.com/HOm8DeH.jpg)
+
+---
+
+### Heimildir
+
+* https://www.youtube.com/watch?v=33VYnE7Bzpk
+
+* https://www.ibm.com/support/knowledgecenter/en/SSFKSJ_7.1.0/com.ibm.mq.doc/sy10660_.htm
+
+* https://en.wikipedia.org/wiki/Cipher_suite
+
+* https://docs.oracle.com/cd/E19693-01/819-0997/aakhc/index.html
+
+* https://www.ssl2buy.com/wiki/symmetric-vs-asymmetric-encryption-what-are-differences#targetText=Symmetric%20encryption%20uses%20a%20single,and%20decrypt%20messages%20when%20communicating.&targetText=Asymmetric%20encryption%20takes%20relatively%20more%20time%20than%20the%20symmetric%20encryption

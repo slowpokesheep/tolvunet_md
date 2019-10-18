@@ -31,6 +31,16 @@ Vafrar treysta aðeins ákveðnum aðilum. Listi af þessum aðilum eru vanalega
 
 ----
 
+## Firefox
+
+```sh
+prefrences -> Privacy & Security -> View Certificates...
+```
+
+<img src="assets/firefox_crt.gif" width="600"/>
+
+----
+
 <img src="assets/https_warning.gif" width="600"/>
 
 ---

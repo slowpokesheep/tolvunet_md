@@ -7,9 +7,18 @@ Hyper Text Transfer Protocol
 
 ---
 
+1. Biðlari sendir beiðni yfir vefinn
+2. Vefþjónn tekur á móti beðninni
+3. Þjónninn keyrir forrit til að vinna beiðnina
+4. Þjónninn skilar HTTP svari
+5. Biðlarinn tekur við svarinu
+---
 <img src="https://static.javatpoint.com/servletpages/servletterminology/images/http-requests.jpg" alt="" width="600"/>
  
 ---
+
+# https//:
+Hyper Text Transfer Protocol Secure
 
 <img src="https://www.tutorialsteacher.com/Content/images/https/https-communication.png" alt="" width="600"/>
 

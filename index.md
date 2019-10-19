@@ -14,7 +14,7 @@ Hyper Text Transfer Protocol
 
 ---
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Client-server-model.svg/1200px-Client-server-model.svg.png" alt="" width="600"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Client-server-model.svg/1200px-Client-server-model.svg.png" alt="" width="800"/>
 
 ---
 
@@ -35,11 +35,11 @@ Hyper Text Transfer Protocol Secure
 
 ---
 
-# TSL/SSL
+# TLS/SSL
 
 ---
 
-### TSL/SSL sáttmálaferlið (handshake)
+### TLS/SSL sáttmálaferlið (handshake)
 #### Skref fyrir skref með dæmum frá Uglu
 
 ![Ugla-handaband](https://imgur.com/HOm8DeH.jpg)
@@ -47,7 +47,7 @@ Hyper Text Transfer Protocol Secure
 ---
 
 ### Skref 1.
-##### Biðlari sækist eftir SSL/TSL samskiptum.
+##### Biðlari sækist eftir SSL/TLS samskiptum.
 
 * Biðlari (*client*) sendir HTTPS beiðni á þjón (*server*) Uglu.
 
@@ -84,15 +84,15 @@ Hyper Text Transfer Protocol Secure
 
 ----
 
-![chrome-security-tab](https://imgur.com/Eeg8GiQ.png)
+<img src="https://imgur.com/Eeg8GiQ.png" width="600"/>
 
 ----
 
-![session-id](https://imgur.com/zjSADwG.png)
+<img src="https://imgur.com/zjSADwG.png" width="800"/>
 
 ----
 
-![certificate-ugla](https://imgur.com/0qxygan.png)
+<img src="https://imgur.com/0qxygan.png" width="500"/>
 
 ---
 
@@ -132,7 +132,7 @@ Samhverfir lyklaalgoriðmar nota einn lykil til að dulkóða og afkóða, algen
 
 ----
 
-#### Ósamhverfir lyklaalgorðmar
+#### Ósamhverfir lyklaalgoriðmar
 
 Án þess að vita neina stærðfræði á bakvið lyklaalgoriðma þurfum við að treysta þessu tvennu um ósamhverfa lyklaalgoriðma:
 
